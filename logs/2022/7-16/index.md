@@ -2,5 +2,7 @@
 
 ![1](./imgs/1.jpg)
 
-<audio src="./mp3/32358170.mp3" controls="controls" autoplay="autoplay">
+<audio controls="controls" autoplay="autoplay">
+  <source src="./mp3/32358170.mp3" type="audio/mpeg" />
+</audio>
 
